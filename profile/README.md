@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/55fac2e2-2172-4f0f-9ece-693d8a99afe0" alt="TalkValue Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/2d050ee4-2849-4bf0-aa8c-2cab5689ef32" alt="TalkValue Banner" width="100%" />
 </p>
 
 <p align="center">
