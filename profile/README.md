@@ -31,6 +31,8 @@ QR check-in, real-time attendance tracking, and instant badge printing — all f
 
 **[cli](https://github.com/talkvalue/cli)** — Command-line interface for the TalkValue platform.
 
+**[Buddi](https://github.com/talkvalue/Buddi)** — A macOS notch companion for Claude Code — your buddy lives here now.
+
 ### Join Our Community
 
 Event, community, and GTM professionals sharing real AI workflows — not hype.
